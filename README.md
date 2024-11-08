@@ -25,3 +25,5 @@ This data analysis dives into the gameplay statistics of the Sidemen’s Among U
     - Since Lazerbeam and Viz played lesser game that other sidemen, their kill count is less
 
    ![image](https://github.com/Kriz-Griffin/Sidemen-Analysis/blob/0714c0766b6a5ea1e0f9e32820b3e9308a1c2362/Sidemen%20Amongus%20Analysis/images/imposter%20analysis.png)
+ 
+ > Crewmate analysis
