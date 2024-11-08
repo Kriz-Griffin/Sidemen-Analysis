@@ -23,4 +23,5 @@ This data analysis dives into the gameplay statistics of the Sidemen’s Among U
     - The bottom-right chart ranks players based on the number of kills they achieved as Impostors.
     - JJ, Simon, and Vik lead in kill stats, indicating their aggressiveness and success in eliminating Crewmates during their Impostor rounds.
     - Since Lazerbeam and Viz played lesser game that other sidemen, their kill count is less
-   
+
+   ![image](https://github.com/Kriz-Griffin/Sidemen-Analysis/blob/0714c0766b6a5ea1e0f9e32820b3e9308a1c2362/Sidemen%20Amongus%20Analysis/images/imposter%20analysis.png)
