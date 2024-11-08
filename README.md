@@ -55,7 +55,7 @@ This data analysis dives into the gameplay statistics of the Sidemen’s Among U
 
 ### Conclusion:
 
-    In conclusion, the Among Us stats for Sidemen and friends reveal interesting patterns in gameplay dynamics and player tendencies. Simon, Ethan, and JJ emerge as standout figures in several aspects:
+   In conclusion, the Among Us stats for Sidemen and friends reveal interesting patterns in gameplay dynamics and player tendencies. Simon, Ethan, and JJ emerge as standout figures in several aspects:
 
 1. High Early Death and Vote-Out Rates: Players like Simon and Ethan frequently face early exits, either through first-round deaths or as early vote-out targets. This suggests a combination of high in-game risk-taking and possibly a perception among peers that these players are often impostors, leading to quick eliminations.
 
