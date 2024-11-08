@@ -17,6 +17,10 @@ This data analysis dives into the gameplay statistics of the Sidemen’s Among U
     - The bar chart in the top-right section compares the number of games in which each player was an Impostor against their Impostor wins. This gives insight into each player's success rate as an Impostor.
     - Simon and Vik's performance as imposter was the best compared to others, also players like Lazarbeam and Viz shown good performance.
 4. Imposter Win Percentage
-    -
+    - The middle-right chart displays the Impostor win percentage for each player, showing how often they successfully won as the Impostor relative to the total times they played as one.
+    - Simon and Vik have the highest Impostor win percentages, suggesting effective strategies and deception when playing as Impostors, followed by Lazarbeam and Viz
 6. Imposter Kill stats
-    -
+    - The bottom-right chart ranks players based on the number of kills they achieved as Impostors.
+    - JJ, Simon, and Vik lead in kill stats, indicating their aggressiveness and success in eliminating Crewmates during their Impostor rounds.
+    - Since Lazerbeam and Viz played lesser game that other sidemen, their kill count is less
+   
