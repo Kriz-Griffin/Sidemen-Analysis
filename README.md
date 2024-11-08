@@ -36,7 +36,7 @@ This data analysis dives into the gameplay statistics of the Sidemen’s Among U
     - The bottom-right chart displays the Crewmate win percentage for each player, indicating how often they successfully won as a Crewmate.
     - MilkinABag, JME, and WillNE have the highest win percentages, suggesting their ability to survive or contribute to a Crewmate victory efficiently. Despite playing fewer games, they have an impressive success rate compared to others.
     - Simon and Vik has highest win percentage being the members who played this game for a loog time
-  ![image](https://github.com/Kriz-Griffin/Sidemen-Analysis/blob/cf87c26923abb6882bb224d4605f38a85fe0c78f/Sidemen%20Amongus%20Analysis/images/crewmate%20analysis%20-%201.png)
+  ![image](https://github.com/Kriz-Griffin/Sidemen-Analysis/blob/cf87c26923abb6882bb224d4605f38a85fe0c78f/Sidemen%20Amongus%20Analysis/images/crewmate%20analysis%20-%202.png)
   
 
    
