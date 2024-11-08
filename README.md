@@ -38,5 +38,17 @@ This data analysis dives into the gameplay statistics of the Sidemen’s Among U
     - Simon and Vik has highest win percentage being the members who played this game for a loog time
   ![image](https://github.com/Kriz-Griffin/Sidemen-Analysis/blob/cf87c26923abb6882bb224d4605f38a85fe0c78f/Sidemen%20Amongus%20Analysis/images/crewmate%20analysis%20-%202.png)
   
+> Crewmate analysis - 2
+1. Death in first round
+    - The bar chart on the left shows players' frequency of dying in the first round. Simon, Ethan, Josh, and Tobi are the top players who die early.
+    - Simon, Ethan, Josh, and Tobi are the top players who die early, with Simon having the highest count at 36 first-round deaths. This indicates that they might be perceived as threats or simply unlucky in surviving the first round.
+2. Top 10 Members Voted Out Most and Voted Out First:
+    - The pie charts in the top right provide insights into the players who are frequently targeted for voting.
+    - Most Voted Out: JJ, Josh, and Harry top this list, suggesting they are either highly suspected or struggle to convince others of their innocence in meetings.
+    - Voted Out First: JJ, Vik, and Tobi lead in terms of being voted out first, showing they often face early suspicion. JJ stands out with a significant 45 votes as the first to be voted out.
+3. Total number of deaths:
+    - The bottom right bar chart displays the cumulative death count for each player.
+    - Ethan leads with 128 total deaths, followed closely by Simon and Harry.
+    - This suggests that these players frequently encounter dangerous situations or fail to avoid being targeted.
+  ![image](https://github.com/Kriz-Griffin/Sidemen-Analysis/blob/cf87c26923abb6882bb224d4605f38a85fe0c78f/Sidemen%20Amongus%20Analysis/images/crewmate%20analysis%20-%201.png)
 
-   
