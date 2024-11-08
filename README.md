@@ -26,4 +26,17 @@ This data analysis dives into the gameplay statistics of the Sidemen’s Among U
 
    ![image](https://github.com/Kriz-Griffin/Sidemen-Analysis/blob/0714c0766b6a5ea1e0f9e32820b3e9308a1c2362/Sidemen%20Amongus%20Analysis/images/imposter%20analysis.png)
  
- > Crewmate analysis
+> Crewmate analysis - 1 
+1. Total Games Played:
+    - The bar chart on the left provides the total number of Among Us games played by each participant. Similar to the Impostor analysis, Sidemen members Josh, Simon, Ethan, Harry, Vik, Tobi, and JJ have the highest game counts, indicating their frequent participation.
+2. Crewmate Games vs. Crewmate Wins:
+    - The top-right chart shows each player's number of games as a Crewmate and the number of wins they achieved as Crewmates. This helps highlight each player's effectiveness at completing tasks and avoiding being killed or voted out by Impostors.
+    - Simon, Harry, and Vik have the highest number of Crewmate wins, showcasing their strong performances in this role.
+3. Crewmate Win Percentage:
+    - The bottom-right chart displays the Crewmate win percentage for each player, indicating how often they successfully won as a Crewmate.
+    - MilkinABag, JME, and WillNE have the highest win percentages, suggesting their ability to survive or contribute to a Crewmate victory efficiently. Despite playing fewer games, they have an impressive success rate compared to others.
+    - Simon and Vik has highest win percentage being the members who played this game for a loog time
+  ![image](https://github.com/Kriz-Griffin/Sidemen-Analysis/blob/0714c0766b6a5ea1e0f9e32820b3e9308a1c2362/Sidemen%20Amongus%20Analysis/images/crewmate%20analysis-1.png)
+  
+
+   
